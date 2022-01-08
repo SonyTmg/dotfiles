@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sony123ktm@gmail.com
+	name = Sony Tamang
